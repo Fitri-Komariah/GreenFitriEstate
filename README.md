@@ -32,7 +32,7 @@ What things you need to install and how to install them
 1. Clone the repository:
 
 ```
-1. git clone https://github.com/KOSASIH/GreenFitriEstate.git
+1. git clone https://github.com/Fitri-Komariah/GreenFitriEstate.git
 ```
 
 2. Create a virtual environment and activate it:
